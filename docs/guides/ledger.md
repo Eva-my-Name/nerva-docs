@@ -44,4 +44,4 @@ Once done, you can load the wallet in future with
 
 
 <!--Reference links -->
-[nerva-downloads-link]: https://getnerva.org/#downloads
+[nerva-downloads-link]: https://nerva.one/#downloads
